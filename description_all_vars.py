@@ -1,3 +1,6 @@
+# Dictionary constructed with information from the following website:
+# https://www.nco.ncep.noaa.gov/pmb/products/hrrr/hrrr.t00z.wrfsfcf00.grib2.shtml
+# https://www.nco.ncep.noaa.gov/pmb/products/hrrr/hrrr.t00z.wrfsubhf00.grib2.shtml
 desc_sfc = {
     ":REFC:entire atmosphere":                                                         {"level":"entire atmosphere",                                  "parameter":"refc",     "description":"Composite reflectivity [dB]",                                               "unit":"dB"             },
     ":RETOP:cloud top":                                                                {"level":"cloud top",                                          "parameter":"RETOP",    "description":"Echo Top [m]",                                                              "unit":"m"              },
